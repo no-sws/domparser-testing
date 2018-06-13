@@ -10,6 +10,16 @@ Some specific aspects being looked at:
 - Are script events executed?
 - Are assets (e.g., images) loaded?
 
+## Running locally
+
+After cloning and `cd`'ing into repo:
+
+```shell
+python -m SimpleHTTPServer
+```
+
+and open up [localhost:8000](http://localhost:8000/).
+
 ## Resources
 
 - [DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)
