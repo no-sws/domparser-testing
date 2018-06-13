@@ -20,6 +20,8 @@ python -m SimpleHTTPServer
 
 and open up [localhost:8000](http://localhost:8000/).
 
+Or, you can just test on the [GH page](https://no-sws.github.io/domparser-testing/?0).
+
 ## Resources
 
 - [DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)
